@@ -8,4 +8,4 @@ Use the Releases section to download the DMG. Verify its SHA-256 against SHA256S
 
 Website: https://magic-margin.kid80.chatgpt.site
 
-Current corrected build: cce91e9 (19 October 2026), with bundled importer 0.2.1. App version remains 0.1.0. Build 64413b1 is superseded because of an importer staging-directory safety defect; use the corrected release.
+Current build: 4ead766 (19 October 2026), with bundled importer 0.2.2. It retains the staging-folder safety fix from cce91e9. App version remains 0.1.0. Build 64413b1 is superseded because of an importer staging-directory safety defect; use the corrected release.
