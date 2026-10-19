@@ -8,4 +8,4 @@ Use the Releases section to download the DMG. Verify its SHA-256 against SHA256S
 
 Website: https://magic-margin.kid80.chatgpt.site
 
-Latest build: 64413b1 (19 October 2026), with bundled Blackboard importer 0.2.1. App version remains 0.1.0.
+Current corrected build: cce91e9 (19 October 2026), with bundled importer 0.2.1. App version remains 0.1.0. Build 64413b1 is superseded because of an importer staging-directory safety defect; use the corrected release.
