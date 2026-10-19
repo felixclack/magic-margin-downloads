@@ -1,0 +1,13 @@
+{
+  "product": "Magic Margin",
+  "version": "0.1.0",
+  "source_revision": "490c48bf88870ce6f05d8784227546e93b5502aa",
+  "built_at": "2026-10-19T13:09:42.580Z",
+  "platform": "macOS",
+  "architecture": "arm64",
+  "minimum_macos": "13.3",
+  "filename": "Magic-Margin-0.1.0-490c48b-arm64.dmg",
+  "size_bytes": 137866518,
+  "sha256": "de109d7a2ffb8160cca4b211220d1b62042389c7b10e7774cea892851562a614",
+  "signing": "ad-hoc signed; not Apple-notarized"
+}
