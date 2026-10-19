@@ -7,3 +7,5 @@ The latest Mac download is version 0.1.0 for Apple silicon (M1 or newer), requir
 Use the Releases section to download the DMG. Verify its SHA-256 against SHA256SUMS.txt. The source revision and build timestamp are recorded in desktop-release.json and embedded inside the app.
 
 Website: https://magic-margin.kid80.chatgpt.site
+
+Latest build: 64413b1 (19 October 2026), with bundled Blackboard importer 0.2.1. App version remains 0.1.0.
