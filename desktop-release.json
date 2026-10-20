@@ -1,18 +1,20 @@
 {
   "product": "Magic Margin",
   "version": "0.1.0",
-  "built_at": "2026-10-19T18:22:44.861Z",
+  "built_at": "2026-10-20T12:25:56.998Z",
   "architecture": "arm64",
   "platform": "macOS",
   "minimum_macos": "13.3",
   "importer_version": "0.2.2",
   "distribution": "ad-hoc signed; not Apple-notarized",
   "retained_safety_fix": "Exclusive staging directory; preserves unowned .updating paths; ASAR-compatible file copying",
-  "change": "Absolute Blackboard API URLs independent of asset-host base URL",
-  "source_revision": "4ead766a08d24ea6062e1ee7eab2f9d4160c7a77",
-  "filename": "Magic-Margin-0.1.0-4ead766-arm64.dmg",
-  "size_bytes": 137887537,
-  "sha256": "316e4ade6c920df097880ee2410c09193f38d2c4f3bd79cec6b419e2ce023f4a",
+  "change": "Optional Mac Study coach with ChatGPT plan sign-in preview; explicit preview/send and opt-in transcripts",
+  "source_revision": "6732fd786a2e625262f667e6b7bed6328f50d91b",
+  "filename": "Magic-Margin-0.1.0-6732fd7-arm64.dmg",
+  "size_bytes": 137904390,
+  "sha256": "5b8a9c75a3eca9d7b0d830fd9690ad93cb2ad0029b31a86ef60a6d59abf848e8",
   "packaging": "Default Electron ASAR",
-  "safety_fix_source": "cce91e984d457ffcac04416dde546973661d4d1c"
+  "safety_fix_source": "cce91e984d457ffcac04416dde546973661d4d1c",
+  "download_url": "https://github.com/felixclack/magic-margin-downloads/releases/download/desktop-20261020-6732fd7/Magic-Margin-0.1.0-6732fd7-arm64.dmg",
+  "verification_limitations": "Synthetic/mock provider QA only; real ChatGPT sign-in, plan eligibility and usage unverified; ad-hoc signed, not Apple-notarized"
 }

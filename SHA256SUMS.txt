@@ -1,1 +1,1 @@
-316e4ade6c920df097880ee2410c09193f38d2c4f3bd79cec6b419e2ce023f4a  Magic-Margin-0.1.0-4ead766-arm64.dmg
+5b8a9c75a3eca9d7b0d830fd9690ad93cb2ad0029b31a86ef60a6d59abf848e8  Magic-Margin-0.1.0-6732fd7-arm64.dmg
